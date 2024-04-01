@@ -117,6 +117,8 @@ I'm open for academic collaborations. If you are interested, please feel free to
 <div class='paper-box-text' markdown="1">
  -->
 
+* Y. Tang, P. Dong, **Z. Tang**, X. Chu, J. Liang. VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting. In Arxiv 2024.
+
 * **Z. Tang**, Y. Zhang, S. Shi, X. Tian, T. Liu, B. Han, X. Chu. FedImpro: Measuring and Improving Client Update in Federated Learning. In ICLR 2024.
 
 
