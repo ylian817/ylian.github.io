@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhenheng Tang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.png"
   bio              : "PhD student in Computer Science, Hong Kong Baptist University"
   location         : "Hong Kong, China"
   employer         :
@@ -127,23 +127,6 @@ defaults:
       layout: default
       author_profile: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _cv
-  - scope:
-      path: ""
-      type: cv
-    values:
-      layout: single
-      author_profile: true
-      share: true
-
 
 
 
