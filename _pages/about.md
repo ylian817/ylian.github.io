@@ -18,6 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+**About**
+
 Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). Before HKBU, I got my Bachelor degree of HUST.
 
 
@@ -31,7 +33,6 @@ Democratizing Machine learning needs high efficiency, scalability, robustness an
 * LLM enhancement: Data quality, LLM safety.
 
 I'm open for academic collaborations. If you are interested, please feel free to contact me.
-
 
 
 
@@ -52,15 +53,17 @@ I'm open for academic collaborations. If you are interested, please feel free to
 * [2020.10] &nbsp;🎉🎉 Our survey paper "A Quantitative Survey of Communication Optimizations in Distributed Deep Learning" \[[code](https://github.com/HKBU-HPML/ddl-benchmarks), [paper](https://arxiv.org/abs/2005.13247)\] has been accepted by *IEEE Network Magazine*.
 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💻 Work & Research Experience 
+## 📖 Educations
+- *2020.09 - now*, Hong Kong Baptist University, PhD in Computer Science
+- *2014.09 - 2018.06*, Huazhong University of Science and Technology, Bachelor in Telecommunications Engineering。
+
+## 💻 Work & Research Experience 
 * 09/2023-present: Visiting Researcher, The Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen).
 * 02/2023-05/2023: Visiting Researcher, National University of Singapore, advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 * 06/2022-10/2022: Research Intern, [FedML Inc](https://www.fedml.ai/), advised by [Dr. Chaoyang He](https://chaoyanghe.com/).
 * 10/2018-09/2020: Research Assistant, Hong Kong Baptist University, advised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen).
+
 
 
 # 📕 Teaching
@@ -110,9 +113,9 @@ I'm open for academic collaborations. If you are interested, please feel free to
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+ -->
 
 * **Z. Tang**, Y. Zhang, S. Shi, X. Tian, T. Liu, B. Han, X. Chu. FedImpro: Measuring and Improving Client Update in Federated Learning. In ICLR 2024.
 
@@ -176,6 +179,21 @@ I'm open for academic collaborations. If you are interested, please feel free to
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pd4PWlhO8snuZVDPncMjkvKKyv494Zg_6KY07jDtkhI&cl=ffffff&w=a"></script>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
