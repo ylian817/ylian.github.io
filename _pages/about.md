@@ -26,22 +26,23 @@ Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist Univers
 
 **Research Interests**
 
-Democratizing Machine learning needs high efficiency, scalability, robustness and privacy. Achieving them needs to understand ML and systems first. Hope we can design an ML system to learn and generate knowledge at anywhere and anytime.
+Democratizing large deep learning models needs high efficiency, scalability, robustness and privacy. Achieving these goals needs to *understand ML and systems* at first. To this end, I'm studying following aspects:
 
-* ML optimization: Federated learning, Distributed deep learning, New optimizer, Dataset distillation, Hardware-friendly optimization.
-* Efficient inference: Hardware-friendly inference, Compression, Sparsity, MoE routing.
-* LLM enhancement: Data quality, LLM safety.
+* ML optimization: Federated learning, Distributed deep learning, New optimizer, HPO, Hardware-friendly optimization, Fault-tolerance training.
+* Efficient inference: Hardware-friendly Inference, Compression, Sparsity, MoE routing.
+* Data-centric: RAG, Dataset distillation, data quality.
+* LLM privacy: Privacy preserved inference.
 
-I'm open for academic collaborations. If you are interested, please feel free to contact me.
+Hope finnaly we can design an *ML system* to learn and generate knowledge at anywhere and anytime. I'm open for academic collaborations. If you are interested, please feel free to contact me.
 
 
 
 
 # 🔥 News
 
-* [2024.03] &nbsp;🎉🎉 VMRNN is available. This work proposes the VMRNN cell, a new recurrent unit that integrates the strengths of Vision Mamba blocks with LSTM. We construct a network centered on VMRNN cells to tackle spatiotemporal prediction tasks effectively. [paper](https://arxiv.org/abs/2403.16536). [code](https://github.com/yyyujintang/VMRNN-PyTorch)
+* [2024.03] &nbsp;🎉🎉 VMRNN is available. This work proposes the VMRNN cell, a new recurrent unit that integrates the strengths of Vision Mamba blocks with LSTM. We construct a network centered on VMRNN cells to tackle spatiotemporal prediction tasks effectively. ([paper](https://arxiv.org/abs/2403.16536), [code](https://github.com/yyyujintang/VMRNN-PyTorch))
 * [2024.01] &nbsp;🎉🎉 Our paper "FedImpro: Measuring and Improving Client Update in Federated Learning" is accepted at ICLR 2024. ([paper](https://arxiv.org/pdf/2402.07011.pdf),[code](https://github.com/wizard1203/FedImpro)). This work trains the high-level neural network on reconstructed feature distributions, to accelerate FL training and enhance the model performance.
-* [2024.01] &nbsp;🎉🎉 Our paper "Towards Efficient and Reliable LLM Serving: A Real-World Workload Study" is available. ([paper](https://arxiv.org/pdf/2401.17644.pdf)). This paper introduces the first real-world trace dataset of LLM serving workloads, detailing user, system, and LLM behaviors. Many new insights of GPT services are found in this work.
+* [2024.01] &nbsp;🎉🎉 Our paper "Towards Efficient and Reliable LLM Serving: A Real-World Workload Study" is available. ([paper](https://arxiv.org/pdf/2401.17644.pdf)),[code](https://github.com/HPMLL/BurstGPT). This paper introduces the first real-world trace dataset of LLM serving workloads, detailing user, system, and LLM behaviors. Many new insights of GPT services are found in this work.
 * [2023.10] &nbsp;🎉🎉 Our paper "Reliable and Efficient In-Memory Fault Tolerance of Large Language Model Pretraining" is available. ([paper](https://arxiv.org/pdf/2310.12670.pdf)). This work desings an in-memory fault-tolerance framework for large-scale LLM pretraining.
 * [2023.09] &nbsp;🎉🎉 Our paper "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs" is available. ([paper](https://arxiv.org/abs/2309.01172)). This paper envisions a decentralized system unlocking the potential vast untapped consumer-level GPUs in pre-training, inference and fine-tuning of LLMs with privacy protection.
 * [2023.02] &nbsp;🎉🎉 Our paper "FedML Parrot: A Scalable Federated Learning System via Heterogeneity-aware Scheduling on Sequential and Hierarchical Training" is available. ([paper](https://arxiv.org/pdf/2303.01778.pdf)). This work aims to democratize simulating large-scale FL experiments. BTW, our open-source FL framework [FedML](https://github.com/FedML-AI/FedML) has reached 2.6k stars at github.
@@ -128,7 +129,7 @@ I'm open for academic collaborations. If you are interested, please feel free to
 * Y. Wang, S. Shi, X. He, **Z. Tang**, X. Pan, Y. Zheng, X. Wu, AC Zhou, B. He, X. Chu. Reliable and Efficient In-Memory Fault Tolerance of Large Language Model Pretraining. arXiv preprint arXiv:2310.12670.
 
 
-* **Z. Tang**, Yuxin Wang, Xin He, Longteng Zhang, Xinglin Pan, Qiang Wang, Rongfei Zeng, Kaiyong Zhao, Shaohuai Shi, Bingsheng He, Xiaowen Chu. \textbf{FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs}. In IJCAI-LLM Workshop 2023.09., Y. Wang, X. He, L. Zhang, X. Pan, Q. Wang, R. Zeng, K. Zhao, S. Shi, B. He, X. Chu. FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs. In IJCAI-LLM Workshop 2023.09.
+* **Z. Tang**, Yuxin Wang, Xin He, Longteng Zhang, Xinglin Pan, Qiang Wang, Rongfei Zeng, Kaiyong Zhao, Shaohuai Shi, Bingsheng He, Xiaowen Chu. FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs. In IJCAI-LLM Workshop 2023.09., Y. Wang, X. He, L. Zhang, X. Pan, Q. Wang, R. Zeng, K. Zhao, S. Shi, B. He, X. Chu. FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs. In IJCAI-LLM Workshop 2023.09.
 
 * **Z. Tang**, S. Shi, B. Li, X. Chu. GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication. In IEEE Transactions on Parallel and Distributed Systems, 2022.
 
@@ -141,7 +142,7 @@ I'm open for academic collaborations. If you are interested, please feel free to
 * Z. Liao, H. Yan, **Z. Tang**, X. Chu, T. Tao. Deep learning identifies leak in water pipeline system using transient frequency response. In Process Safety and Environmental Protection 2021.
 
 
-* **Z. Tang**, Zhikai Hu, Shaohuai Shi, Yiu-ming Cheung, Yilun Jin, Zhenghang Ren, Xiaowen Chu. \textbf{Data Resampling for Federated Learning with Non-IID Labels. In FTL-IJCAI workshop, 2021.
+* **Z. Tang**, Zhikai Hu, Shaohuai Shi, Yiu-ming Cheung, Yilun Jin, Zhenghang Ren, Xiaowen Chu. Data Resampling for Federated Learning with Non-IID Labels. In FTL-IJCAI workshop, 2021.
 
 * S. Shi, **Z. Tang**, X. Chu, C. Liu, W. Wang, and B. Li. A quantitative surveyof communication optimizations in distributed deep learning. IEEE Network,35(3):230–237, 2021.
 
