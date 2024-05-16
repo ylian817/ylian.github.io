@@ -17,11 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-**About**
-
 Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). Before HKBU, I got my Bachelor degree of HUST.
-
 
 
 **Research Interests**
@@ -33,13 +29,14 @@ Democratizing large deep learning models needs high efficiency, scalability, rob
 * Data-centric: RAG, Dataset distillation, data quality.
 * LLM privacy: Privacy preserved inference.
 
-Hope finnaly we can design an *ML system* to learn and generate knowledge at anywhere and anytime. I'm open for academic collaborations. If you are interested, please feel free to contact me.
+Hope that finally we can design an *ML system* to learn and generate knowledge at anywhere and anytime. I'm open for academic collaborations. If you are interested, please feel free to contact me.
 
 
 
 
 # 🔥 News
 
+* [2024.05] &nbsp;🎉🎉 Our paper "Evolving Symbolic Pruning Metric From Scratch for Large Language Models." is accepted at ICML 2024. This work finds new pruning metric to prune LLMs to achieve SOTA performance under the same sparsity ratio. ([paper]())
 * [2024.03] &nbsp;🎉🎉 VMRNN is available. This work proposes the VMRNN cell, a new recurrent unit that integrates the strengths of Vision Mamba blocks with LSTM. We construct a network centered on VMRNN cells to tackle spatiotemporal prediction tasks effectively. ([paper](https://arxiv.org/abs/2403.16536), [code](https://github.com/yyyujintang/VMRNN-PyTorch))
 * [2024.01] &nbsp;🎉🎉 Our paper "FedImpro: Measuring and Improving Client Update in Federated Learning" is accepted at ICLR 2024. ([paper](https://arxiv.org/pdf/2402.07011.pdf),[code](https://github.com/wizard1203/FedImpro)). This work trains the high-level neural network on reconstructed feature distributions, to accelerate FL training and enhance the model performance.
 * [2024.01] &nbsp;🎉🎉 Our paper "Towards Efficient and Reliable LLM Serving: A Real-World Workload Study" is available. ([paper](https://arxiv.org/pdf/2401.17644.pdf)),[code](https://github.com/HPMLL/BurstGPT). This paper introduces the first real-world trace dataset of LLM serving workloads, detailing user, system, and LLM behaviors. Many new insights of GPT services are found in this work.
@@ -118,7 +115,9 @@ Hope finnaly we can design an *ML system* to learn and generate knowledge at any
 <div class='paper-box-text' markdown="1">
  -->
 
-* Y. Tang, P. Dong, **Z. Tang**, X. Chu, J. Liang. VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting. In Arxiv 2024.
+* P. Dong, L. Li, **Z. Tang**, X. Liu, X. Pan, Q. Wang, X. Chu. Evolving Symbolic Pruning Metric From Scratch for Large Language Models. In ICML 2024.
+
+* Y. Tang, P. Dong, **Z. Tang**, X. Chu, J. Liang. VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting. In CVPR Workshop 2024.
 
 * **Z. Tang**, Y. Zhang, S. Shi, X. Tian, T. Liu, B. Han, X. Chu. FedImpro: Measuring and Improving Client Update in Federated Learning. In ICLR 2024.
 
