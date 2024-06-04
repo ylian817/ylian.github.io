@@ -24,9 +24,10 @@ Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist Univers
 
 Democratizing large deep learning models needs high efficiency, scalability, robustness and privacy. Achieving these goals needs to *understand ML and systems* at first. To this end, I'm studying following aspects:
 
-* ML optimization: Federated learning, Distributed deep learning, New optimizer, HPO, Hardware-friendly optimization, Fault-tolerance training.
-* Efficient inference: Hardware-friendly Inference, Compression, Sparsity, MoE routing.
-* Data-centric: RAG, Dataset distillation, data quality.
+* Efficient Training: ML optimizer, Distributed training (and federated learning), HPO, ML-system co-designs, Fault-tolerance training.
+* Efficient Inference: Memory saving, Model compression, MoE routing.
+* Understanding Deep Learning: How DNNs are trained, how knowledge is stored in the DNNs.
+* Data-centric: RAG, Dataset selection, Data quality.
 * LLM privacy: Privacy preserved inference.
 
 Hope that finally we can design an *ML system* to learn and generate knowledge at anywhere and anytime. I'm open for academic collaborations. If you are interested, please feel free to contact me.
