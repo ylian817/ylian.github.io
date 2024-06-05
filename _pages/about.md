@@ -77,27 +77,31 @@ Hope that finally we can design an *ML system* to learn and generate knowledge a
 # 👔 Professional Activities
 
 * Invited Program Committee Member (Reviewer):
-    * Machine Learning: KDD'23, ICML'22,23, NeurIPS'22,23, ICLR'23,24, AAAI'23, AISTATS'23, UAI'22, IJCAI-ECAI'22, IWQOS'23
-    * Systems: HPCC'21, ICDCS'22,23, ICPADS'22
+    * Machine Learning: KDD'23, ICML'22,23,24, NeurIPS'22,23,24, ICLR'23,24, AAAI'23, AISTATS'23, UAI'22, IJCAI-ECAI'22
+    * Networking & Systems: HPCC'21, ICDCS'22,23, ICPADS'22, IWQOS'23, 24
 
 * Invited Reviewer for Journals
-    * IEEE Transactions on Neural Networks and Learning Systems
-    * Journal of Artificial Intelligence Research
-    * IEEE Transactions on Parallel and Distributed Systems
-    * IEEE Journal on Selected Areas in Communications
-    * IEEE Network Magzines
-    * IEEE Transactions on Networking
-    * IEEE Transactions on Network Science and Engineering
-    * IEEE Transactions on Intelligent Systems and Technology
-    * IEEE Computational Intelligence Magazine
+    * Machine Learning: 
+        * Transactions on Machine Learning Research
+        * IEEE Transactions on Neural Networks and Learning Systems
+        * Journal of Artificial Intelligence Research
+    * Networking & Systems: 
+        * IEEE Transactions on Parallel and Distributed Systems
+        * IEEE Journal on Selected Areas in Communications
+        * IEEE Network Magzines
+        * IEEE Transactions on Networking
+        * IEEE Transactions on Network Science and Engineering
+        * IEEE Transactions on Intelligent Systems and Technology
+        * IEEE Computational Intelligence Magazine
 
-# 🎤 Invited Talks
+<!-- # 🎤 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
 # 🎖 Honors and Awards
 
+* 2023/24, Research Performance Award, HKBU CS Department.
 * 2022/23, Research Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
 * 2022/23 Fall, Teaching Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
 * 2021/22, Research Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
