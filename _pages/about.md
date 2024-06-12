@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). Before HKBU, I got my Bachelor degree of HUST.
+Hi! This year, I'm expected to graduate as a Computer Science PhD in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). After PhD journey, I'm going to work as a Postdoctoral Fellow in HKUST under supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). Before HKBU, I got my Bachelor degree of HUST.
 
 
 **Research Interests**
 
-Democratizing large deep learning models needs high efficiency, scalability, robustness and privacy. Achieving these goals needs to *understand ML and systems* at first. To this end, I'm studying following aspects:
+Democratizing large deep learning models needs high efficiency, scalability, robustness and privacy. Achieving these goals needs to understand *both ML and systems* at first. To this end, I'm studying following aspects:
 
-* Efficient Training: ML optimizer, Distributed training (and federated learning), HPO, ML-system co-designs, Fault-tolerance training.
-* Efficient Inference: Memory saving, Model compression, MoE routing.
-* Understanding Deep Learning: How DNNs are trained, how knowledge is stored in the DNNs.
-* Data-centric: RAG, Dataset selection, Data quality.
+* Training: ML optimizer, Distributed training (and federated learning), HPO, ML-system co-designs, Fault-tolerance training.
+* Inference: Memory saving, Model compression, MoE routing, Accelerating LLM inference (both edge and server).
+* Understanding Deep Learning: How model is trained, how knowledge is stored in the model, how knowledge is retrieved from the model.
+* Data-centric: RAG, Dataset selection, Data quality, Data generation.
 * LLM privacy: Privacy preserved inference.
 
 Hope that finally we can design an *ML system* to learn and generate knowledge at anywhere and anytime. I'm open for academic collaborations. If you are interested, please feel free to contact me.
@@ -37,6 +37,8 @@ Hope that finally we can design an *ML system* to learn and generate knowledge a
 
 # 🔥 News
 
+
+* [2024.06] &nbsp;🎉🎉 Our paper "Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning." is accepted at ICPP 2024. This work finds that the overlapness between indexes of compressed client model parameters demonstrates important information that can be utilized to adjust averging weights. ([paper]())
 * [2024.05] &nbsp;🎉🎉 Our paper "Evolving Symbolic Pruning Metric From Scratch for Large Language Models." is accepted at ICML 2024. This work finds new pruning metric to prune LLMs to achieve SOTA performance under the same sparsity ratio. ([paper]())
 * [2024.03] &nbsp;🎉🎉 VMRNN is available. This work proposes the VMRNN cell, a new recurrent unit that integrates the strengths of Vision Mamba blocks with LSTM. We construct a network centered on VMRNN cells to tackle spatiotemporal prediction tasks effectively. ([paper](https://arxiv.org/abs/2403.16536), [code](https://github.com/yyyujintang/VMRNN-PyTorch))
 * [2024.01] &nbsp;🎉🎉 Our paper "FedImpro: Measuring and Improving Client Update in Federated Learning" is accepted at ICLR 2024. ([paper](https://arxiv.org/pdf/2402.07011.pdf),[code](https://github.com/wizard1203/FedImpro)). This work trains the high-level neural network on reconstructed feature distributions, to accelerate FL training and enhance the model performance.
@@ -101,12 +103,12 @@ Hope that finally we can design an *ML system* to learn and generate knowledge a
 
 # 🎖 Honors and Awards
 
-* 2023/24, Research Performance Award, HKBU CS Department.
-* 2022/23, Research Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
-* 2022/23 Fall, Teaching Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
-* 2021/22, Research Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
-* 2021/22 Fall, Teaching Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
-* 2020, Scholarship for Nominees of Hong Kong PhD Fellowship Scheme, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
+* 2023/24, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2022/23, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2022/23 Fall, Teaching Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2021/22, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2021/22 Fall, Teaching Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2020, Scholarship for Nominees of Hong Kong PhD Fellowship Scheme, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
 * 2018, Outstanding Graduate, HUST
 * 2016, Scholarship of Academic Excellence, HUST
 
@@ -115,10 +117,13 @@ Hope that finally we can design an *ML system* to learn and generate knowledge a
 
 
 # 📝 Publications 
+The \* represents the equal contribution, \# corresponding author, $\dagger$ project lead.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  -->
+
+* Z. Tang, J. Huang, R. Yan, Y. Wang, **Z. Tang**$\dagger$, S. Shi, A. C. Zhou, X. Chu. Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning. In ICPP 2024.
 
 * P. Dong, L. Li, **Z. Tang**, X. Liu, X. Pan, Q. Wang, X. Chu. Evolving Symbolic Pruning Metric From Scratch for Large Language Models. In ICML 2024.
 
@@ -133,7 +138,7 @@ Hope that finally we can design an *ML system* to learn and generate knowledge a
 * Y. Wang, S. Shi, X. He, **Z. Tang**, X. Pan, Y. Zheng, X. Wu, AC Zhou, B. He, X. Chu. Reliable and Efficient In-Memory Fault Tolerance of Large Language Model Pretraining. arXiv preprint arXiv:2310.12670.
 
 
-* **Z. Tang**, Yuxin Wang, Xin He, Longteng Zhang, Xinglin Pan, Qiang Wang, Rongfei Zeng, Kaiyong Zhao, Shaohuai Shi, Bingsheng He, Xiaowen Chu. FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs. In IJCAI-LLM Workshop 2023.09., Y. Wang, X. He, L. Zhang, X. Pan, Q. Wang, R. Zeng, K. Zhao, S. Shi, B. He, X. Chu. FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs. In IJCAI-LLM Workshop 2023.09.
+* **Z. Tang**, Y. Wang, X. He, L. Zhang, X. Pan, Q. Wang, R. Zeng, K. Zhao, S. Shi, B. He, X. Chu. FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs. In IJCAI-LLM Workshop 2023.09., 
 
 * **Z. Tang**, S. Shi, B. Li, X. Chu. GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication. In IEEE Transactions on Parallel and Distributed Systems, 2022.
 
