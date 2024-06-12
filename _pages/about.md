@@ -26,7 +26,7 @@ Democratizing large deep learning models needs high efficiency, scalability, rob
 
 * Training: ML optimizer, Distributed training (and federated learning), HPO, ML-system co-designs, Fault-tolerance training.
 * Inference: Memory saving, Model compression, MoE routing, Accelerating LLM inference (both edge and server).
-* Understanding Deep Learning: How model is trained, how knowledge is stored in the model, how knowledge is retrieved from the model.
+* Understanding Deep Learning/LLM: How model/LLM is trained, how knowledge is stored in the model/LLM, how knowledge is retrieved from the model/LLM.
 * Data-centric: RAG, Dataset selection, Data quality, Data generation.
 * LLM privacy: Privacy preserved inference.
 
