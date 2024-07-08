@@ -84,6 +84,7 @@ Hope that finally we can design an *ML system* to learn and generate knowledge a
 
 * Invited Reviewer for Journals
     * Machine Learning: 
+        * IEEE Transactions on Pattern Analysis and Machine Intelligence
         * Transactions on Machine Learning Research
         * IEEE Transactions on Neural Networks and Learning Systems
         * Journal of Artificial Intelligence Research
@@ -95,6 +96,7 @@ Hope that finally we can design an *ML system* to learn and generate knowledge a
         * IEEE Transactions on Network Science and Engineering
         * IEEE Transactions on Intelligent Systems and Technology
         * IEEE Computational Intelligence Magazine
+        * Journal of Parallel and Distributed Computing
 
 <!-- # 🎤 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
