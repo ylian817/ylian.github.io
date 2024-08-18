@@ -20,11 +20,12 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
+# bio              : "PhD student in Computer Science, Hong Kong Baptist University"
 author:
   name             : "Zhenheng Tang"
   avatar           : "images/middle_profile.png"
-  bio              : "PhD student in Computer Science, Hong Kong Baptist University"
-  location         : "Hong Kong, China"
+  bio              : "PostDoc Research in Computer Science, The Hong Kong University of Science and Technology"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FlYcrEcAAAAJ"
