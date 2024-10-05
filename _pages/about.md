@@ -150,7 +150,7 @@ The \* represents the equal contribution, 📧 corresponding author, 💡 projec
 
 * **Z. Tang**, Y. Zhang, P. Dong, Y. Cheung, A. C. Zhou, B. Han, X. Chu. FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion." In NeurIPS 2024 (***spotlight***).
 
-* L. Shen, **Z. Tang**💡 , L. Wu, Y. Zhang, X. Chu, T. Qin, B. Han. "Hot Pluggable Federated Learning." In Workshop of Federated Foundation Models@NeurIPS 2024 as (***Oral***).
+* L. Shen\*, **Z. Tang**\*💡 , L. Wu, Y. Zhang, X. Chu, T. Qin, B. Han. "Hot Pluggable Federated Learning." In Workshop of Federated Foundation Models@NeurIPS 2024 as (***Oral***).
 
 * L. Li, P. Dong, **Z. Tang**, X. Liu, Q. Wang, W. Luo, W. Xue, Q. Liu, X. Chu, Y. Guo. Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models. In NeurIPS 2024.
 
