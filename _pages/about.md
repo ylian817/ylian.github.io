@@ -50,11 +50,12 @@ I'm open for academic collaborations. If you are interested, please feel free to
 
 # 🔥 News
 
-* [2024.09] &nbsp;🎉🎉 Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models." is accepted In ASPLOS 2025!. In this paper, we design and implement a new training system modularizes various operators in the entire MoE model, providing more fine-grained computation and communication scheduling, and achieving better computation communication overlap through appropriate gradient segmentation.. ([paper]() and [codes]() will come soon...)
-* [2024.09] &nbsp;🎉🎉 Our paper "Hot Pluggable Federated Learning." is accepted at Workshop Federated Foundation Models@NeurIPS 2024  as an ***Oral*** paper!. In this paper, we propose a new method to see model heads as a pluggable modules appended between the model backbone. ([paper]() and [codes]() will come soon...)
-* [2024.09] &nbsp;🎉🎉 Our paper "FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion." is accepted at NeurIPS 2024 as a ***Spotlight***! This work identifies the cause of low performance of one-shot FL, and proposes FuseFL to progressively train and fuses DNN model following a bottom-up manner, reducing communication costs to an extremely low degree. ([paper]() and [codes]() will come soon...)
+* [2024.10] &nbsp;🎉🎉 Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models." is accepted In **ASPLOS 2025**! In this paper, we design and implement a new training system modularizes various operators in the entire MoE model, providing more fine-grained computation and communication scheduling, and achieving better computation communication overlap through appropriate gradient segmentation.. ([paper]() and [codes]() will come soon...)
+* [2024.09] &nbsp;🎉🎉 Our paper "Hot Pluggable Federated Learning." is accepted at Workshop Federated Foundation Models@NeurIPS 2024  as an ***Oral*** paper!. In this paper, we propose a new method to regard model heads as pluggable modules appended after the model backbone. ([paper]() and [codes]() will come soon...)
+* [2024.09] &nbsp;🎉🎉 Our paper "FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion." is accepted at NeurIPS 2024 as a ***Spotlight*** paper ! This work identifies the cause of low performance of one-shot FL, and proposes FuseFL to progressively train and fuses DNN model following a bottom-up manner, reducing communication costs to an extremely low degree. ([paper]() and [codes]() will come soon...)
 * [2024.09] &nbsp;🎉🎉 Our paper "Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models." is accepted at NeurIPS 2024. In this paper, we present a new method for optimizing layerwise sparsity allocation in large language models. ([paper]() and [codes]() will come soon...)
 * [2024.09] &nbsp;🎉🎉 Our paper "Should We Really Edit Language Models? On the Evaluation of Edited Language Models." is accepted at NeurIPS 2024. In this paper, we benchmark the methods of editing LLMs and see how they influence LLM performance. ([paper]() and [codes]() will come soon...)
+* [2024.09] &nbsp;🎉🎉 Our paper "LPZero: Language Model Zero-cost Proxy Search from Zero." is accepted at EMNLP 2024 (Findings). In this paper, we propose LPZero, which can automatically design zero-cost proxies for NLP tasks. It uses genetic programming to find optimal symbolic equations, outperforming human-designed proxies in ranking consistency. ([paper]() and [codes]() will come soon...)
 * [2024.06] &nbsp;🎉🎉 Our paper "Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning." is accepted at ICPP 2024. This work finds that the overlapness between indexes of compressed client model parameters demonstrates important information that can be utilized to adjust averging weights. ([paper]())
 * [2024.05] &nbsp;🎉🎉 Our paper "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models." is accepted at ICML 2024. This work finds new pruning metric to prune LLMs to achieve SOTA performance under the same sparsity ratio. ([paper](https://arxiv.org/abs/2406.02924))
 * [2024.03] &nbsp;🎉🎉 VMRNN is available. This work proposes the VMRNN cell, a new recurrent unit that integrates the strengths of Vision Mamba blocks with LSTM. We construct a network centered on VMRNN cells to tackle spatiotemporal prediction tasks effectively. ([paper](https://arxiv.org/abs/2403.16536), [code](https://github.com/yyyujintang/VMRNN-PyTorch))
@@ -150,11 +151,13 @@ The \* represents the equal contribution, 📧 corresponding author, 💡 projec
 
 * **Z. Tang**, Y. Zhang, P. Dong, Y. Cheung, A. C. Zhou, B. Han, X. Chu. FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion." In NeurIPS 2024 (***spotlight***).
 
-* L. Shen\*, **Z. Tang**\*💡 , L. Wu, Y. Zhang, X. Chu, T. Qin, B. Han. "Hot Pluggable Federated Learning." In Workshop of Federated Foundation Models@NeurIPS 2024 as (***Oral***).
+* L. Shen\*, **Z. Tang**\*💡 , L. Wu, Y. Zhang, X. Chu, T. Qin, B. Han. "Hot Pluggable Federated Learning." In Workshop of Federated Foundation Models@NeurIPS 2024 (***Oral***).
 
 * L. Li, P. Dong, **Z. Tang**, X. Liu, Q. Wang, W. Luo, W. Xue, Q. Liu, X. Chu, Y. Guo. Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models. In NeurIPS 2024.
 
 * Q. Li, X. Liu, **Z. Tang**, P. Dong, Z. Li, X. Pan, X. Chu. Should We Really Edit Language Models? On the Evaluation of Edited Language Models. In NeurIPS 2024.
+
+* P. Dong, L. Li, X. Liu, **Z. Tang**, X. Liu, Q. Wang, X. Chu. LPZero: Language Model Zero-cost Proxy Search from Zero. In EMNLP 2024 Findings.
 
 * Z. Tang, J. Huang, R. Yan, Y. Wang, **Z. Tang**💡📧, S. Shi, A. C. Zhou, X. Chu📧. Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning. In ICPP 2024.
 
