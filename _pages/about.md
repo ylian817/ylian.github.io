@@ -24,7 +24,18 @@ Previously, I obtained my PhD degree of Computer Science from [Hong Kong Baptist
 
 
 **Research Interests**
-I am interested in undersanding how deep learning models are optimized and how they learn knowledge and do reasoning. With better understanding and interpretation, I devote to design high-performance, privacy preserved and trustworthy ML algorithms and systems. 
+I am interested in undersanding how deep learning models are optimized and how they learn knowledge and do reasoning. In next at least one year, I will delve into studying LLM reasoning mechanisms, agent workflow, fast finetuning and inference, and some practical LLMs' applications in CS or other areas in which knowledge can be conveniently represented digitally.
+
+<!-- workflow -->
+
+
+
+<!-- With better understanding and interpretation, I devote to design high-performance, privacy preserved and trustworthy ML algorithms and systems.  -->
+
+<!-- R -->
+
+
+
 
 <!-- Speficially, -->
 
