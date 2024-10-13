@@ -138,6 +138,8 @@ I'm open for academic collaborations. If you are interested, please feel free to
 
 # 🎖 Honors and Awards
 
+* 2024, NeurIPS Scholar Award. 
+* 2024, ICLR Scholar Award. 
 * 2023/24, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
 * 2022/23, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
 * 2022/23 Fall, Teaching Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
