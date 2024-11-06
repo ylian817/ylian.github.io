@@ -139,6 +139,8 @@ I'm open for academic collaborations. If you are interested, please feel free to
 
 # 🎖 Honors and Awards
 
+
+* 2024, NeurIPS Top Reviewer ([Link](https://nips.cc/Conferences/2024/ProgramCommittee#top-reviewers)).
 * 2024, Outstanding Student Paper Award of FL@FM-NeurIPS'24 workshop.
 * 2024, NeurIPS Scholar Award. 
 * 2024, ICLR Scholar Award. 
