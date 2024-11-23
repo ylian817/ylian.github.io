@@ -141,11 +141,12 @@ I'm open for academic collaborations. If you are interested, please feel free to
 # 🎖 Honors and Awards
 
 
+* 2023/24 Fall, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
 * 2024, NeurIPS Top Reviewer ([Link](https://nips.cc/Conferences/2024/ProgramCommittee#top-reviewers)).
 * 2024, Outstanding Student Paper Award of FL@FM-NeurIPS'24 workshop.
 * 2024, NeurIPS Scholar Award. 
 * 2024, ICLR Scholar Award. 
-* 2023/24, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2023/24 Spring, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
 * 2022/23, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
 * 2022/23 Fall, Teaching Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
 * 2021/22, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
