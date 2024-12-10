@@ -17,67 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Post-doctoral Researcher at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). 
-Previously, I obtained my PhD degree of Computer Science from [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). Before that, I got my Bachelor degree from [HUST](https://www.hust.edu.cn/).
-
-<!-- Hi! This year, I'm expected to graduate as a Computer Science PhD in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). After PhD journey, I'm going to work as a Postdoctoral Fellow in HKUST under supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). Before HKBU, I got my Bachelor degree of HUST. -->
+I am Yijie Lian, a 
 
 
 **Research Interests**
-I am interested in undersanding how deep learning models are optimized and how they learn knowledge and do reasoning. In next at least one year, I will delve into studying LLM reasoning mechanisms, agent workflow, fast finetuning and inference, and some practical LLMs' applications in CS or other areas in which knowledge can be conveniently represented digitally.
-
-<!-- workflow -->
+I am not interested in 
 
 
-
-<!-- With better understanding and interpretation, I devote to design high-performance, privacy preserved and trustworthy ML algorithms and systems.  -->
-
-<!-- R -->
-
-
-
-
-<!-- Speficially, -->
-
-<!-- 
-* Training: ML optimizer, Distributed training (and federated learning), HPO, ML-system co-designs, Fault-tolerance training.
-* Inference: Memory saving, Model compression, MoE routing, Accelerating LLM inference (both edge and server).
-* Understanding Deep Learning/LLM: How model/LLM is trained, how knowledge is stored in the model/LLM, how knowledge is retrieved from the model/LLM.
-* Data-centric: RAG, Dataset selection, Data quality, Data generation.
-* LLM privacy: Privacy preserved inference.  -->
-
-I'm open for academic collaborations. If you are interested, please feel free to contact me.
-
-<!-- Democratizing large deep learning models needs high efficiency, scalability, robustness and privacy. Achieving these goals needs to understand *both ML and systems* at first. To this end, I'm studying following aspects:
-
-* Training: ML optimizer, Distributed training (and federated learning), HPO, ML-system co-designs, Fault-tolerance training.
-* Inference: Memory saving, Model compression, MoE routing, Accelerating LLM inference (both edge and server).
-* Understanding Deep Learning/LLM: How model/LLM is trained, how knowledge is stored in the model/LLM, how knowledge is retrieved from the model/LLM.
-* Data-centric: RAG, Dataset selection, Data quality, Data generation.
-* LLM privacy: Privacy preserved inference. -->
 
 
 
 ## 📖 Educations
-- *2020.09 - 2024.08*, Hong Kong Baptist University, PhD in Computer Science
-- *2014.09 - 2018.06*, Huazhong University of Science and Technology, Bachelor in Telecommunications Engineering。
 
 ## 💻 Work & Research Experience 
-* 09/2024-present: PostDoc Researcher, The Hong Kong University of Science and Technology, advised by [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen).
-* 09/2023-08/2024: Visiting Researcher, The Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen).
-* 02/2023-05/2023: Visiting Researcher, National University of Singapore, advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-* 06/2022-10/2022: Research Intern, [FedML Inc](https://www.fedml.ai/), advised by [Dr. Chaoyang He](https://chaoyanghe.com/).
-* 10/2018-09/2020: Research Assistant, Hong Kong Baptist University, advised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen).
-
-
 
 # 📕 Teaching
-* Teaching Assistant at HKBU
-    * 2023 Spring Semester, COMP7940 Cloud Computing
-    * 2022 Fall Semester, COMP7015 Artiﬁcial Intelligence 
-    * 2022 Spring Semester, COMP 7550 IT Project Management
-    * 2021 Fall Semester, COMP 7015, Artificial Intelligence
-    * 2021 Spring Semester, COMP 7930, Big Data Analytics
+
 
 
 # 👔 Professional Activities
