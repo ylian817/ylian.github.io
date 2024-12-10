@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yijie Lian"
 description              : ""
-repository               : "ylian817/ylian.github.io"
+repository               : "ylian/ylian.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yijie Lian"
   avatar           : "images/middle_profile.png"
-  bio              : "PostDoc Researcher in Computer Science, The Hong Kong University of Science and Technology"
+  bio              : "PhD Student in Data Scinece and Analytics, Hong Kong University of Science and Technology (Guangzhou)"
   location         : 
   employer         :
   pubmed           : 
