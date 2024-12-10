@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenheng Tang"
+title                    : "Yijie Lian"
 description              : ""
-repository               : "wizard1203/wizard1203.github.io"
+repository               : "ylian817/ylian.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 # bio              : "PhD student in Computer Science, Hong Kong Baptist University"
 author:
-  name             : "Zhenheng Tang"
+  name             : "Yijie Lian"
   avatar           : "images/middle_profile.png"
   bio              : "PostDoc Researcher in Computer Science, The Hong Kong University of Science and Technology"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FlYcrEcAAAAJ"
-  email            : "coolzhtang@gmail.com"
+  googlescholar    : 
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wizard1203"
+  github           : "ylian817"
   google_plus      :
   keybase          :
   instagram        :
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ZhenhengT"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -67,9 +67,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
