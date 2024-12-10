@@ -17,35 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yijie Lian, a 
+I am Yijie Lian, a 2nd-year PhD student in Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou), starting from Fall 2023. Before that, I earned my master's degree in Industrial Engineering and Operations Research (FinTech track) from University of California, Berkeley in 2023, as well as my bachelor's degree in Mathematics from The University of Texas at Austin in 2022. 
 
 
 **Research Interests**
-I am not interested in 
-
-
-
-
-
-## 📖 Educations
-
-## 💻 Work & Research Experience 
-
-# 📕 Teaching
-
-
-
-# 👔 Professional Activities
-
-
-# 🎖 Honors and Awards
-
-
-# 📝 Publications 
-
-
-
-
+Currently, I am interested in exploring the intersection of LLM and Visualization, with focus on crime data.
 
 
 
